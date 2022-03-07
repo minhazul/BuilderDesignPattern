@@ -1,0 +1,14 @@
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.exe
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.deps.json
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.json
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.dev.json
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.dll
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.pdb
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csproj.AssemblyReference.cache
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfoInputs.cache
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfo.cs
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.dll
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.pdb
+D:\Personal\Practice Codes\Design Patterns\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.genruntimeconfig.cache
